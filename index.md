@@ -4,7 +4,7 @@ This is my home page! My name is Tommy Dinh and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/tomdkd9.
+My GitHub page is [tomdkd9](http://github.com/tomdkd9).
 
 ### CPSC 120
 
